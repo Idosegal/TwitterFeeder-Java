@@ -30,4 +30,4 @@ Our project saving the open closed design pattern, we can add services without a
 Moreover, the services The services are independent of each other, for example, If our RDS database is down, the service will not be affected.
 We can run each service individually.
 
-Our services are monitoring using Amazon Cloud Watch, so we can detect any unusual activity in them.
+Our services are monitoring using Amazon Cloud Watch, so we can detect any unusual activity on them.
